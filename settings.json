@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "Diversionsmp.aternos.me",
+    "port": 42353,
     "version": "1.19.3"
   },
 
